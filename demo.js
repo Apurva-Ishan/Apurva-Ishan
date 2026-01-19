@@ -25,9 +25,9 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#f0e2d0';
       h1.style.color = '#9b9286';
       h2.style.color = '#9b9286';
-      const addText = document.createTextNode("Parchment")
+      const addText1 = document.createTextNode("Parchment")
       colorTitle.style.color = '#46423d';
-      colorTitle.appendChild(addText)
+      colorTitle.appendChild(addText1)
       const addFact = document.createTextNode('Fun Fact: Unlike a pure white background (which can cause eye strain), this off-white shade is considered much easier on the eyes for extended reading, making it a common choice for e-book readers and minimalist design.')
       h3.style.color = '#9b9286'
       h3.appendChild(addFact)
