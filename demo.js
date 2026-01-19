@@ -19,7 +19,7 @@ buttons.forEach(function (button) {
       h3.style.color = '#b0e7f9'
       h3.textContent = 'Fun Fact: While red is often used to get attention, this subdued, grayish-blue is often used to recede into the background, making it an excellent, professional, and sophisticated choice for modern interior design or clothing to create a minimalist, relaxing vibe.'
     }
-    if (e.target.id === 'parchment') {
+    else if (e.target.id === 'parchment') {
       body.style.backgroundColor = '#f0e2d0';
       h1.style.color = '#9b9286';
       h2.style.color = '#9b9286';
@@ -28,7 +28,7 @@ buttons.forEach(function (button) {
       h3.style.color = '#9b9286'
       h3.textContent = 'Fun Fact: Unlike a pure white background (which can cause eye strain), this off-white shade is considered much easier on the eyes for extended reading, making it a common choice for e-book readers and minimalist design.'
     }
-    if (e.target.id === 'apricot') {
+    else if (e.target.id === 'apricot') {
       body.style.backgroundColor = '#ea7b7b';
       h1.style.color = '#954e4e';
       h2.style.color = '#954e4e';
@@ -37,7 +37,7 @@ buttons.forEach(function (button) {
       h3.style.color = '#954e4e'
       h3.textContent = 'Fun Fact: As a warm, light color, this color is perceived as being closer to the viewer and larger than its actual size, which is useful in design to create a sense of intimacy.'
     }
-    if (e.target.id === 'sundance') {
+    else if (e.target.id === 'sundance') {
       body.style.backgroundColor = '#c3af54';
       h1.style.color = '#6e632f';
       h2.style.color = '#6e632f';
@@ -46,7 +46,7 @@ buttons.forEach(function (button) {
       h3.style.color = '#6e632f'
       h3.textContent = 'Fun Fact: In color psychology, this type of dull, greenish-yellow is sometimes associated with wisdom, intellect, and sometimes jealousy or deceit, depending on the context.'
     }
-    if (e.target.id === 'sapphire') {
+    else if (e.target.id === 'sapphire') {
       body.style.backgroundColor = '#334699';
       h1.style.color = '#4f6dee';
       h2.style.color = '#4f6dee';
