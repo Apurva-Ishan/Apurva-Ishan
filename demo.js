@@ -14,8 +14,6 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#7498a4';
       h1.style.color = '#b0e7f9';
       h2.style.color = '#b0e7f9';
-      h3.textContent = ''
-      colorTitle.textContent = ''
       colorTitle.style.color = '#38494f';
       colorTitle.textContent = 'Gothic'
       h3.style.color = '#b0e7f9'
@@ -25,8 +23,6 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#f0e2d0';
       h1.style.color = '#9b9286';
       h2.style.color = '#9b9286';
-      h3.textContent = ''
-      colorTitle.textContent = '
       colorTitle.style.color = '#46423d';
       colorTitle.textContent = 'Parchment'
       h3.style.color = '#9b9286'
@@ -36,8 +32,6 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#ea7b7b';
       h1.style.color = '#954e4e';
       h2.style.color = '#954e4e';
-      h3.textContent = ''
-      colorTitle.textContent = '
       colorTitle.style.color = '#402222';
       colorTitle.textContent = 'Apricot'
       h3.style.color = '#954e4e'
@@ -47,8 +41,6 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#c3af54';
       h1.style.color = '#6e632f';
       h2.style.color = '#6e632f';
-      h3.textContent = ''
-      colorTitle.textContent = '
       colorTitle.style.color = '#19160b';
       colorTitle.textContent = 'Sundance'
       h3.style.color = '#6e632f'
@@ -58,8 +50,6 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = '#334699';
       h1.style.color = '#4f6dee';
       h2.style.color = '#4f6dee';
-      h3.textContent = ''
-      colorTitle.textContent = '
       colorTitle.style.color = '#171f44';
       colorTitle.textContent = 'Sapphire'
       h3.style.color = '#4f6dee'
